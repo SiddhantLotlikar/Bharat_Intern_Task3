@@ -9,5 +9,5 @@ The following modules were used:
 1. numpy
 2. pandas
 3. seaborn
-4. scikit learn
+4. scikit-learn(sklearn)
 5. keras from tensorflow
