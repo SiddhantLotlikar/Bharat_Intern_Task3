@@ -6,4 +6,7 @@ flowers species based on their features using
 Python, scikit-learn, and TensorFlow(keras).
 
 The following modules were used:
-
+1. numpy
+2. pandas
+3. seaborn
+4. keras from tensorflow
