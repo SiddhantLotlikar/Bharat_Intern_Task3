@@ -9,4 +9,5 @@ The following modules were used:
 1. numpy
 2. pandas
 3. seaborn
-4. keras from tensorflow
+4. scikit learn
+5. keras from tensorflow
